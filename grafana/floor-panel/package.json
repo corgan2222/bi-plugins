@@ -71,7 +71,7 @@
     "@grafana/runtime": "9.2.5",
     "@grafana/ui": "9.2.5",
     "@mars3d/heatmap.js": "^2.0.7",
-    "axios": "^1.2.1",
+    "axios": "^1.18.0",
     "javascript-color-gradient": "^2.4.4",
     "react": "17.0.2",
     "react-color": "^2.19.3",
